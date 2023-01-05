@@ -4,7 +4,7 @@ body {
 }
 
 header, main, footer {
-    width: 1000px;
+    width: 950px;
     margin-left: calc(50% - 500px);
     display: inline-block;
     margin-bottom: 13px;
@@ -97,7 +97,7 @@ h5 {
 }
 
 .second-img {
-    width: 250px;
+    width: 220px;
 }
 
 .right-column-below-links {

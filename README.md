@@ -10,7 +10,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://inga911.github.io/dinozauras/index.html
+Site published at: https://inga911.github.io/dinozauras/
 
 Design: [Dinozauras](https://cdn.dribbble.com/users/472667/screenshots/16366306/media/dcce8a686344eadbe62138b9a2f49a1f.gif)
 
