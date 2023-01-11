@@ -1,0 +1,82 @@
+@import '../main.css';
+@import '../3rd-party/font-awesome.min.css';
+@import '../base/base.css';
+@import '../base/layout.css';
+@import '../components/button.css';
+
+
+.logo:hover {
+    box-shadow: 0 0 6px #0bf5c2;
+}
+
+
+.links {
+    font-size: 15px;
+    margin-left: 30px;
+    text-decoration: none;
+    padding: 0.5em;
+    line-height: 1.2em;
+}
+
+.links:first-child {
+    margin-left: 0;
+}
+
+.links:last-child {
+    background-color: #35CFAE;
+    color: white;
+    border-radius: 0.6em;
+}
+
+.links:hover {
+    text-shadow: 0 0 6px #0bf5c2;
+}
+
+.links:last-child:hover {
+    background-color: rgb(132, 242, 254);
+    color: rgb(43, 43, 98);
+    box-shadow: 0 0 6px #0bf5c2;
+}
+
+
+.right-column-top > p {
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+.icon2 {
+    margin-top: 12px;
+    display: block;
+    padding: 6px;
+    margin-bottom: 8px;
+    text-decoration: none;
+    color: #F37958;
+}
+
+.icon2:hover {
+    color: #222750;
+}
+
+
+
+
+
+.icon {
+    margin-right: 1em;
+    line-height: 1em;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.icon:last-child {
+    margin-right: 0;
+}
+
+.icon:hover {
+    color: rgb(65, 237, 151);
+}
+
+
+
